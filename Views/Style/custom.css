@@ -1,0 +1,65 @@
+.text
+{
+    color:rgba(0, 0, 0, 0.548);
+     /* font-weight: bold; */
+}
+.text-info 
+{
+    color: #ffffff !important;
+    margin-top: 30%;
+    font-weight: bold;
+}
+
+.btn-info
+{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    border: 1px ;
+    border-radius: 20px;
+    margin-left: 42%;
+}
+
+
+
+.navbar-inverse
+{
+    background-color: white;
+    margin-left: 10%;
+    border: none;
+}
+
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: rgb(0, 0, 0);
+    background-color: white;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+
+}
+.navbar-right {
+    float: right!important;
+    margin-right: 20%;
+}
+.booking-form 
+{
+    background-color: transparent;
+}
+
+.booking-form .submit-btn {
+  background-color:  #ff364a;  
+}
+.booking-form .form-label {
+  
+    color: #000000;
+  
+}
+
+label
+{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+
